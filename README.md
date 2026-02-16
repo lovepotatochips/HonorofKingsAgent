@@ -405,10 +405,6 @@ npm run test
 
 欢迎提交Issue和Pull Request！
 
-## 联系方式
-
-- 邮箱：feedback@example.com
-- 官网：www.example.com
 
 ---
 
